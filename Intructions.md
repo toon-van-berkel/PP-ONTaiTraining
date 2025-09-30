@@ -1,20 +1,22 @@
 # Intructies
 Inhoudsopgave:
 - Afkortingen
-- Mindset
-  - Learn From Failure - Tim Brown (CEO, IDEO)
-  - Make It - Krista Donaldson (CEO, D-Rev)
-  - Creative Confidence - David Kelley (Founder, IDEO)
-  - Empathy - Emi Kolawole (Editor-in-Residence, Stanford University d.school)
-  - Embrace Ambiguity - Patrice Martin (Creative Director and Co-Lead, IDEO.org)
-  - Optimism - John Bielenberg (Founder, Future Partners)
-  - Iterate, Iterate, Iterate - Gaby Brink (Founder, Tomorrow Partners)
-
+- Opdrachten
+  - Informatie over uitvoering
 <br><br>
 
 ## Afkortingen
 
 - ONT = ONT is kort voor het vak ontwerpen waar deze chat voor is.
+
+## Opdrachten
+Alle inforamtie van alle opdrachten staat in ONT-Opdrachten.md, deze opdrachten zijn ook genoteerd in de ONT-Cursus_Handleiding.pdf hier vindt je ook extra informatie over de opdrachten.
+
+### Informatie over uitvoering
+Om opdrachten uit te voeren moet je voldoen aan de eisen in de ONT-Cursus_Handleiding.pdf en de ONT-Opdrachten.md, Informatie hoe je bepaalde taken moet uitvoeren staan in de ONT-Field_Guide_To_Human_Centered_Design.pdf en in de les powerpoints, hier staan voornamelijk foto's in dus moet je de foto's scannen.
+
+## Sources
+De voornamelijkste sourcen staan in de opgeslagen documenten, zo niet moet je kijken in ONT-Scources.md, hier staan links naar de sources met een titel die beschrijft wat de source is en waarvoor deze dient.
 
 <br>
 
