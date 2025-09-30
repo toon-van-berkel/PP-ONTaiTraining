@@ -22,7 +22,7 @@ Vul het document dat je hebt gemaakt bij opdracht 3 aan met de onderstaande onde
 
 ### Algehele score
 |Newbie Designer|Padawan Designer|Design Guru|
-| :-- | :--  | :-- |
+|:--|:--|:--|
 |0 punten minimaal|3 punten minimaal|6 punten minimaal|
 
 ## Opdracht indienen
